@@ -73,7 +73,7 @@ public class Pizza {
                 bill+="Paperbag Added: "+String.valueOf(takeaw)+"\n";
 
         }
-        bill+="Total Price: "+String.valueOf(price);
+        bill+="Total Price: "+String.valueOf(price)+"\n";
 
         return bill;
     }
