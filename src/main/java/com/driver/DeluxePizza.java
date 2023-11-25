@@ -8,18 +8,5 @@ public class DeluxePizza extends Pizza {
        super.addExtraToppings();
     }
 
-    @Override
-    public void addTakeaway() {
-        super.addTakeaway();
-    }
 
-    @Override
-    public int getPrice() {
-        return super.getPrice();
-    }
-
-    @Override
-    public String getBill() {
-        return super.getBill();
-    }
 }
